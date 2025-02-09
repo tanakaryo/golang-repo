@@ -1,0 +1,14 @@
+.
+├── Makefile
+├── bin
+│   ├── main
+│   └── main-freebsd-386
+├── command.sh
+├── docker-compose.yml
+├── go.mod
+├── go.sum
+├── main.go
+├── script
+└── tree.txt
+
+3 directories, 9 files
